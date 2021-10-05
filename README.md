@@ -29,7 +29,7 @@
 
 IntroViews is inspired by [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android) and developed with `love` from scratch. Checkout our fully responsive [live example app](https://introviews-flutter.web.app/).
 
-# Table of contents
+## Table of contents
   * [Features](#features)
   * [Getting Started](#getting-started)
   * [Usage](#usage)
